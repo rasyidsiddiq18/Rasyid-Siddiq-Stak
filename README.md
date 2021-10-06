@@ -1,2 +1,2 @@
-# Rasyid-Siddiq-Stak
+# Pemrograman Mahir
 Program Stack menggunakan Java
